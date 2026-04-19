@@ -6,8 +6,8 @@
 - **Web:** Suoritettu "How the Web Works". Opittu HTTP-metodit (GET/POST) ja statuskoodit.
 
 ## 19.4.2026 - Päivä 3: Tavoitteena Pre-Security-polun jatkamista
--Pre-Security polun kaikki ilmaiset huoneet suoritettu. Opittu esim. itse tietokoneen komponenteista, käyttöjärjestelmistä ja kryptografiasta.
--Regex alkuja myös käyty läpi
+- Pre-Security polun kaikki ilmaiset huoneet suoritettu. Opittu esim. itse tietokoneen komponenteista, käyttöjärjestelmistä ja kryptografiasta. 
+- Regex alkuja myös käyty läpi
 
 
 
