@@ -9,5 +9,5 @@
 -Pre-Security polun kaikki oilmaiset huoneet suoriettu. Opittu esim. itse tietokoneen komponenteista, käyttöjärjestelmistä ja kryptografiasta.
 -Regue alkuja myös käyty läpi
 
-
+## 20.4.2026 PPäivä 4: Tavoitteena Linux oppimista OverTheWire pelill'ä
 
