@@ -20,6 +20,15 @@
 - Level 7: dfwvzFQi4mU0wfNbFOe9RoWskMLg7eEc -Perus grep haku
 - Level 8: 4CKMh1JI91bUIZZPXDqGanal4xvAg0JM - Sort ja Uniq käytetty
 
+## 21.4.2026 - Päivä 5: OverTheWire - Bandit
+
+- Level 9: FGUW5ilLVJrxX9kMYMmlN4MgbpfMiqey -Strings ja grep putkitus
+- Level 10: dtR173fZKb0RRsDFSGsg2RWnpNVj3qRr -Base64 decoodaus
+- Level 11: 7x16WNeHIi5YkIhWsfFIqoognUTyj9Q4 -Echo ja tr tr 'A-Za-z' 'N-ZA-Mn-za-m', jolla saa kääntymään rot13
+- Level 12: FO5dwFsc0cbaIiH0h8J2eUks2vdTDwAn -xxd, gzip, bzip2, tar, tiedostojen decompressointia. kesti hetki päästä alkuun ja tajuta miten gzip,bzip2 ja tar toimii. Sen jälkeen helppoa toistoa.
+- Level 13: ssh hommat jäi kesken ssh -i jotain jotain jotain 
+
+
 
 
 
