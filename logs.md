@@ -28,9 +28,14 @@
 - Level 12: FO5dwFsc0cbaIiH0h8J2eUks2vdTDwAn -xxd, gzip, bzip2, tar, tiedostojen decompressointia. kesti hetki päästä alkuun ja tajuta miten gzip,bzip2 ja tar toimii. Sen jälkeen helppoa toistoa.
 - Level 13: ssh hommat jäi kesken ssh -i jotain jotain jotain 
 
-
-
-
+## 22.4.2026 - Päivä 6: OverTheWire - Bandit
+- Level 13 tehty -ssh hommat kaipaa kyl viel harjotteluu
+- Level 14 8xCjnmgoKbGLhHFAZlGE5Tmu4M2tKJQo - nc yhteys portti 30000
+- Level 15: kSkvUpMQ7lBYyCM4GBPvCvT1BfWRy0Dx - openssh
+- Level 16: nmap portti scan ja siit vaa testailuu mikä on oikee
+- Level 17: x2gLTTjFwMOhQ8oWNbMN362QKxfRqGlO - diff vertailu, aika helppo taso tähän kohtaan
+- Level 18 cGWpMaKXVwDUNgPAVJbWYuGHVn9zl3j8 -käskyjä voi antaa vaikka ei ole sisällä
+- Päivän mietteet: paljon ssh juttuja opittu, joutu googlettamaan aika paljon ja miettimään miten asioita tehdään tai miten ne toimivat. Enää ei ollut niin selvää mitä komentoa käyttää missäkin tasossa kun aikaisemmin se oli aika helppoa.
 
 
 
