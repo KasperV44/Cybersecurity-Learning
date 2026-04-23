@@ -37,7 +37,8 @@
 - Level 18 cGWpMaKXVwDUNgPAVJbWYuGHVn9zl3j8 -käskyjä voi antaa vaikka ei ole sisällä
 - Päivän mietteet: paljon ssh juttuja opittu, joutu googlettamaan aika paljon ja miettimään miten asioita tehdään tai miten ne toimivat. Enää ei ollut niin selvää mitä komentoa käyttää missäkin tasossa kun aikaisemmin se oli aika helppoa.
 
-
+## 23.4.2026 - Päivä 7: Youtube videot
+Tänään oli vähän laiskempi päivä ja tyydyin kattomaan Networkchuckin linux videoita. 
 
 ### Tekninen vinkki: Virheiden suodattaminen (I/O Redirection)
 Kun etsitään tiedostoja (`find /`), terminaali täyttyy usein "Permission denied" -virheistä. Ne voi suodattaa pois ohjaamalla ne "mustaan aukkoon":
