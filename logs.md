@@ -40,6 +40,9 @@
 ## 23.4.2026 - Päivä 7: Youtube videot
 Tänään oli vähän laiskempi päivä ja tyydyin kattomaan Networkchuckin linux videoita. 
 
+## 25.4.2026 - Päivä 8: Linux kertailua
+Katoin Youtubesta ratkaisuja OTW Bandit tasoihin, joita olin aiemmin vetänyt läpi ja muistelin komentoja ja niiden käyttöä. Kokeilin myös toissapäivänä oppimiani komentoja esim apropos, jolla pystyy hakemaan komentoja jos ei muista tarkalleen nimeä. 
+
 ### Tekninen vinkki: Virheiden suodattaminen (I/O Redirection)
 Kun etsitään tiedostoja (`find /`), terminaali täyttyy usein "Permission denied" -virheistä. Ne voi suodattaa pois ohjaamalla ne "mustaan aukkoon":
 `find / -user bandit7 -group bandit6 -size 33c 2>/dev/null`
